@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+
+h1{
+
+    display: inline-block;
+    background-color: coral;    
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100px;
+    border-radius: 5px;
+}
+#btn1{
+    border-radius: 8px;
+    margin-top: 5px;
+    width: 80px;
+    height: 30px;
+    border-color: coral;
+
+
+}
+#btn2{
+    border-radius: 8px;
+    margin-top: 5px;
+    width: 80px;
+    height: 30px;
+    border-color: coral;
+
+
+}
+#btn3{
+    border-radius: 8px;
+    margin-top: 5px;
+    width: 80px;
+    height: 30px;
+    border-color: coral;
+
+
+}
+#btn4{
+    border-radius: 8px;
+    margin-top: 5px;
+    width: 80px;
+    height: 30px;
+    border-color: coral;
+}
